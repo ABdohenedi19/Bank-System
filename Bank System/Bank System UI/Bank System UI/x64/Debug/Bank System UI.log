@@ -1,0 +1,57 @@
+﻿  Bank System UI.cpp
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(40,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(207,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(336,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(381,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(449,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsString.h(455,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsUser.h(227,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System%20UI.cpp')
+      C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsUser.h(29,9):
+      see declaration of 'clsUser::stLoginRegister'
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsUser.h(38,77): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsBankClient.h(238,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System%20UI.cpp')
+      C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsBankClient.h(19,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsBankClient.h(33,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsBankClient.h(377,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsClientsListScreen.h(34,24): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsTotalBalancesScreen.h(57,57): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsTransferScreen.h(44,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsLoginRegisterScreen.h(33,24): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20UI.cpp')
+  
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsBankClient.h(436,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsUser.h(370,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Alpasha\source\repos\Bank System UI\Bank System UI\clsUtil.h(286,1): warning C4715: 'clsUtil::NumberToText': not all control paths return a value
+  Bank System UI.vcxproj -> C:\Users\Alpasha\source\repos\Bank System UI\x64\Debug\Bank System UI.exe
